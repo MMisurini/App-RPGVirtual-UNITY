@@ -17,7 +17,7 @@ RPG-Virtual
 
 [//]: # (Add your gifs/images here:)
 <div>
-  <img src="https://github.com/MMisurini/RPG-Virtual---App/issues/1#issue-634728807" alt="Print App RPG" height="425">
+https://github.com/MMisurini/RPG-Virtual---App/issues/1#issue-634728807
 </div>
 
 <hr />
