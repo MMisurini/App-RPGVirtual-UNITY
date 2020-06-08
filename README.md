@@ -1,8 +1,6 @@
 
 <h1 align="center">
 <br>
-  <img src="YOUR_LOGO_URL" alt="RPG Virtual" width="120">
-<br>
 <br>
 RPG-Virtual
 </h1>
